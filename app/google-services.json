@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149023236904",
+    "project_id": "lab2cs460",
+    "storage_bucket": "lab2cs460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149023236904:android:4ae021aa19748e8fd4261d",
+        "android_client_info": {
+          "package_name": "com.example.lab2cs460"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfvnrGXxToWBfA4rvnuWUjxaSEP8jYbJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
